@@ -1,0 +1,774 @@
+,,Fall 2022,Fall 2022
+College Name,Citizenship Status,Student Count,Student Count (%)
+Alameda,U.S. citizen,"4,538",79.57 %
+Alameda,Permanent Resident,594,10.42 %
+Alameda,Temporary Resident,107,1.88 %
+Alameda,Student Visa (F-1 or M-1 visa),112,1.96 %
+Alameda,Other Status,186,3.26 %
+Alameda,Status Unknown / Uncollected,166,2.91 %
+Allan Hancock,U.S. citizen,"10,071",84.09 %
+Allan Hancock,Permanent Resident,498,4.16 %
+Allan Hancock,Temporary Resident,18,0.15 %
+Allan Hancock,Refugee / Asylee,11,0.09 %
+Allan Hancock,Student Visa (F-1 or M-1 visa),23,0.19 %
+Allan Hancock,Other Status,921,7.69 %
+Allan Hancock,Status Unknown / Uncollected,435,3.63 %
+American River,U.S. citizen,"24,172",88.38 %
+American River,Permanent Resident,"2,188",8.00 %
+American River,Temporary Resident,81,0.30 %
+American River,Refugee / Asylee,428,1.56 %
+American River,Student Visa (F-1 or M-1 visa),51,0.19 %
+American River,Other Status,419,1.53 %
+American River,Status Unknown / Uncollected,11,0.04 %
+Antelope Valley,U.S. citizen,"11,379",94.71 %
+Antelope Valley,Permanent Resident,295,2.46 %
+Antelope Valley,Temporary Resident,30,0.25 %
+Antelope Valley,Refugee / Asylee,16,0.13 %
+Antelope Valley,Student Visa (F-1 or M-1 visa),21,0.17 %
+Antelope Valley,Other Status,267,2.22 %
+Antelope Valley,Status Unknown / Uncollected,6,0.05 %
+Bakersfield,U.S. citizen,"26,250",94.18 %
+Bakersfield,Permanent Resident,592,2.12 %
+Bakersfield,Temporary Resident,37,0.13 %
+Bakersfield,Refugee / Asylee,32,0.11 %
+Bakersfield,Student Visa (F-1 or M-1 visa),34,0.12 %
+Bakersfield,Other Status,725,2.60 %
+Bakersfield,Status Unknown / Uncollected,203,0.73 %
+Barstow,U.S. citizen,"3,070",95.46 %
+Barstow,Permanent Resident,86,2.67 %
+Barstow,Temporary Resident,1,0.03 %
+Barstow,Refugee / Asylee,8,0.25 %
+Barstow,Student Visa (F-1 or M-1 visa),9,0.28 %
+Barstow,Other Status,42,1.31 %
+Berkeley City,U.S. citizen,"4,966",80.92 %
+Berkeley City,Permanent Resident,454,7.40 %
+Berkeley City,Temporary Resident,96,1.56 %
+Berkeley City,Student Visa (F-1 or M-1 visa),114,1.86 %
+Berkeley City,Other Status,218,3.55 %
+Berkeley City,Status Unknown / Uncollected,289,4.71 %
+Butte,U.S. citizen,"9,792",96.29 %
+Butte,Permanent Resident,121,1.19 %
+Butte,Temporary Resident,25,0.25 %
+Butte,Refugee / Asylee,13,0.13 %
+Butte,Student Visa (F-1 or M-1 visa),101,0.99 %
+Butte,Other Status,117,1.15 %
+Cabrillo,U.S. citizen,"9,008",93.08 %
+Cabrillo,Permanent Resident,352,3.64 %
+Cabrillo,Temporary Resident,23,0.24 %
+Cabrillo,Refugee / Asylee,11,0.11 %
+Cabrillo,Student Visa (F-1 or M-1 visa),43,0.44 %
+Cabrillo,Other Status,241,2.49 %
+CalBright,U.S. citizen,2,0.09 %
+CalBright,Status Unknown / Uncollected,"2,277",99.91 %
+Canada,U.S. citizen,"4,314",80.08 %
+Canada,Permanent Resident,359,6.66 %
+Canada,Temporary Resident,170,3.16 %
+Canada,Refugee / Asylee,54,1.00 %
+Canada,Student Visa (F-1 or M-1 visa),163,3.03 %
+Canada,Other Status,315,5.85 %
+Canada,Status Unknown / Uncollected,12,0.22 %
+Canyons,U.S. citizen,"20,621",95.80 %
+Canyons,Permanent Resident,445,2.07 %
+Canyons,Temporary Resident,45,0.21 %
+Canyons,Refugee / Asylee,50,0.23 %
+Canyons,Student Visa (F-1 or M-1 visa),102,0.47 %
+Canyons,Other Status,251,1.17 %
+Canyons,Status Unknown / Uncollected,11,0.05 %
+Cerritos,U.S. citizen,"18,730",86.96 %
+Cerritos,Permanent Resident,126,0.59 %
+Cerritos,Temporary Resident,893,4.15 %
+Cerritos,Refugee / Asylee,79,0.37 %
+Cerritos,Student Visa (F-1 or M-1 visa),36,0.17 %
+Cerritos,Other Status,911,4.23 %
+Cerritos,Status Unknown / Uncollected,763,3.54 %
+Cerro Coso,U.S. citizen,"4,805",96.06 %
+Cerro Coso,Permanent Resident,108,2.16 %
+Cerro Coso,Temporary Resident,12,0.24 %
+Cerro Coso,Refugee / Asylee,2,0.04 %
+Cerro Coso,Student Visa (F-1 or M-1 visa),5,0.10 %
+Cerro Coso,Other Status,60,1.20 %
+Cerro Coso,Status Unknown / Uncollected,10,0.20 %
+Chabot Hayward,U.S. citizen,"9,879",87.73 %
+Chabot Hayward,Permanent Resident,817,7.26 %
+Chabot Hayward,Temporary Resident,64,0.57 %
+Chabot Hayward,Refugee / Asylee,89,0.79 %
+Chabot Hayward,Student Visa (F-1 or M-1 visa),51,0.45 %
+Chabot Hayward,Other Status,360,3.20 %
+Chabot Hayward,Status Unknown / Uncollected,1,0.01 %
+Chaffey,U.S. citizen,"18,329",92.13 %
+Chaffey,Permanent Resident,772,3.88 %
+Chaffey,Temporary Resident,70,0.35 %
+Chaffey,Refugee / Asylee,102,0.51 %
+Chaffey,Student Visa (F-1 or M-1 visa),103,0.52 %
+Chaffey,Other Status,519,2.61 %
+Citrus,U.S. citizen,"9,441",91.95 %
+Citrus,Permanent Resident,303,2.95 %
+Citrus,Temporary Resident,37,0.36 %
+Citrus,Refugee / Asylee,36,0.35 %
+Citrus,Student Visa (F-1 or M-1 visa),214,2.08 %
+Citrus,Other Status,224,2.18 %
+Citrus,Status Unknown / Uncollected,12,0.12 %
+Clovis,U.S. citizen,"7,764",99.60 %
+Clovis,Permanent Resident,24,0.31 %
+Clovis,Student Visa (F-1 or M-1 visa),1,0.01 %
+Clovis,Other Status,6,0.08 %
+Coastline,U.S. citizen,"5,785",63.96 %
+Coastline,Permanent Resident,392,4.33 %
+Coastline,Temporary Resident,11,0.12 %
+Coastline,Refugee / Asylee,18,0.20 %
+Coastline,Student Visa (F-1 or M-1 visa),142,1.57 %
+Coastline,Other Status,46,0.51 %
+Coastline,Status Unknown / Uncollected,"2,651",29.31 %
+Columbia,U.S. citizen,"2,578",98.02 %
+Columbia,Permanent Resident,11,0.42 %
+Columbia,Temporary Resident,3,0.11 %
+Columbia,Refugee / Asylee,3,0.11 %
+Columbia,Student Visa (F-1 or M-1 visa),2,0.08 %
+Columbia,Other Status,33,1.25 %
+Compton,U.S. citizen,"4,043",94.86 %
+Compton,Permanent Resident,84,1.97 %
+Compton,Temporary Resident,14,0.33 %
+Compton,Refugee / Asylee,4,0.09 %
+Compton,Other Status,113,2.65 %
+Compton,Status Unknown / Uncollected,4,0.09 %
+Contra Costa,U.S. citizen,"5,247",84.30 %
+Contra Costa,Permanent Resident,450,7.23 %
+Contra Costa,Temporary Resident,24,0.39 %
+Contra Costa,Refugee / Asylee,83,1.33 %
+Contra Costa,Student Visa (F-1 or M-1 visa),59,0.95 %
+Contra Costa,Other Status,361,5.80 %
+Copper Mountain,U.S. citizen,"1,506",95.50 %
+Copper Mountain,Permanent Resident,54,3.42 %
+Copper Mountain,Temporary Resident,4,0.25 %
+Copper Mountain,Other Status,13,0.82 %
+Cosumnes River,U.S. citizen,"11,588",87.20 %
+Cosumnes River,Permanent Resident,"1,304",9.81 %
+Cosumnes River,Temporary Resident,46,0.35 %
+Cosumnes River,Refugee / Asylee,114,0.86 %
+Cosumnes River,Student Visa (F-1 or M-1 visa),37,0.28 %
+Cosumnes River,Other Status,188,1.41 %
+Cosumnes River,Status Unknown / Uncollected,12,0.09 %
+Crafton Hills,U.S. citizen,"5,003",96.25 %
+Crafton Hills,Permanent Resident,92,1.77 %
+Crafton Hills,Temporary Resident,15,0.29 %
+Crafton Hills,Refugee / Asylee,14,0.27 %
+Crafton Hills,Student Visa (F-1 or M-1 visa),3,0.06 %
+Crafton Hills,Other Status,71,1.37 %
+Cuesta,U.S. citizen,"10,745",92.65 %
+Cuesta,Permanent Resident,270,2.33 %
+Cuesta,Temporary Resident,27,0.23 %
+Cuesta,Refugee / Asylee,6,0.05 %
+Cuesta,Student Visa (F-1 or M-1 visa),17,0.15 %
+Cuesta,Other Status,504,4.35 %
+Cuesta,Status Unknown / Uncollected,28,0.24 %
+Cuyamaca,U.S. citizen,"6,611",82.18 %
+Cuyamaca,Permanent Resident,"1,021",12.69 %
+Cuyamaca,Temporary Resident,21,0.26 %
+Cuyamaca,Refugee / Asylee,280,3.48 %
+Cuyamaca,Student Visa (F-1 or M-1 visa),22,0.27 %
+Cuyamaca,Other Status,90,1.12 %
+Cypress,U.S. citizen,"12,172",90.03 %
+Cypress,Permanent Resident,761,5.63 %
+Cypress,Temporary Resident,65,0.48 %
+Cypress,Refugee / Asylee,35,0.26 %
+Cypress,Student Visa (F-1 or M-1 visa),99,0.73 %
+Cypress,Other Status,383,2.83 %
+Cypress,Status Unknown / Uncollected,5,0.04 %
+Deanza,U.S. citizen,"13,156",80.15 %
+Deanza,Permanent Resident,"1,724",10.50 %
+Deanza,Temporary Resident,109,0.66 %
+Deanza,Refugee / Asylee,118,0.72 %
+Deanza,Student Visa (F-1 or M-1 visa),941,5.73 %
+Deanza,Other Status,338,2.06 %
+Deanza,Status Unknown / Uncollected,28,0.17 %
+Desert,U.S. citizen,"10,570",90.02 %
+Desert,Permanent Resident,394,3.36 %
+Desert,Temporary Resident,51,0.43 %
+Desert,Refugee / Asylee,14,0.12 %
+Desert,Student Visa (F-1 or M-1 visa),97,0.83 %
+Desert,Other Status,406,3.46 %
+Desert,Status Unknown / Uncollected,210,1.79 %
+Diablo Valley,U.S. citizen,"14,177",87.42 %
+Diablo Valley,Permanent Resident,966,5.96 %
+Diablo Valley,Temporary Resident,60,0.37 %
+Diablo Valley,Refugee / Asylee,107,0.66 %
+Diablo Valley,Student Visa (F-1 or M-1 visa),602,3.71 %
+Diablo Valley,Other Status,305,1.88 %
+East LA,U.S. citizen,"24,273",81.25 %
+East LA,Permanent Resident,"1,114",3.73 %
+East LA,Temporary Resident,123,0.41 %
+East LA,Refugee / Asylee,117,0.39 %
+East LA,Student Visa (F-1 or M-1 visa),144,0.48 %
+East LA,Other Status,"1,142",3.82 %
+East LA,Status Unknown / Uncollected,"2,963",9.92 %
+El Camino,U.S. citizen,"19,250",94.86 %
+El Camino,Permanent Resident,481,2.37 %
+El Camino,Temporary Resident,31,0.15 %
+El Camino,Refugee / Asylee,36,0.18 %
+El Camino,Student Visa (F-1 or M-1 visa),290,1.43 %
+El Camino,Other Status,203,1.00 %
+El Camino,Status Unknown / Uncollected,1,0.00 %
+Evergreen Valley,U.S. citizen,"6,673",82.38 %
+Evergreen Valley,Permanent Resident,"1,081",13.35 %
+Evergreen Valley,Temporary Resident,33,0.41 %
+Evergreen Valley,Refugee / Asylee,23,0.28 %
+Evergreen Valley,Student Visa (F-1 or M-1 visa),52,0.64 %
+Evergreen Valley,Other Status,201,2.48 %
+Evergreen Valley,Status Unknown / Uncollected,37,0.46 %
+Feather River,U.S. citizen,"1,319",94.96 %
+Feather River,Permanent Resident,27,1.94 %
+Feather River,Temporary Resident,1,0.07 %
+Feather River,Refugee / Asylee,1,0.07 %
+Feather River,Student Visa (F-1 or M-1 visa),23,1.66 %
+Feather River,Other Status,8,0.58 %
+Feather River,Status Unknown / Uncollected,10,0.72 %
+Folsom Lake,U.S. citizen,"7,989",90.79 %
+Folsom Lake,Permanent Resident,567,6.44 %
+Folsom Lake,Temporary Resident,27,0.31 %
+Folsom Lake,Refugee / Asylee,80,0.91 %
+Folsom Lake,Student Visa (F-1 or M-1 visa),24,0.27 %
+Folsom Lake,Other Status,109,1.24 %
+Folsom Lake,Status Unknown / Uncollected,3,0.03 %
+Foothill,U.S. citizen,"11,818",85.22 %
+Foothill,Permanent Resident,"1,000",7.21 %
+Foothill,Temporary Resident,85,0.61 %
+Foothill,Refugee / Asylee,64,0.46 %
+Foothill,Student Visa (F-1 or M-1 visa),393,2.83 %
+Foothill,Other Status,317,2.29 %
+Foothill,Status Unknown / Uncollected,190,1.37 %
+Fresno City,U.S. citizen,"22,718",99.45 %
+Fresno City,Permanent Resident,100,0.44 %
+Fresno City,Temporary Resident,3,0.01 %
+Fresno City,Refugee / Asylee,2,0.01 %
+Fresno City,Student Visa (F-1 or M-1 visa),6,0.03 %
+Fresno City,Other Status,15,0.07 %
+Fullerton,U.S. citizen,"16,889",91.94 %
+Fullerton,Permanent Resident,687,3.74 %
+Fullerton,Temporary Resident,44,0.24 %
+Fullerton,Refugee / Asylee,39,0.21 %
+Fullerton,Student Visa (F-1 or M-1 visa),157,0.85 %
+Fullerton,Other Status,546,2.97 %
+Fullerton,Status Unknown / Uncollected,8,0.04 %
+Gavilan,U.S. citizen,"4,627",85.13 %
+Gavilan,Permanent Resident,230,4.23 %
+Gavilan,Temporary Resident,11,0.20 %
+Gavilan,Refugee / Asylee,11,0.20 %
+Gavilan,Student Visa (F-1 or M-1 visa),2,0.04 %
+Gavilan,Other Status,517,9.51 %
+Gavilan,Status Unknown / Uncollected,37,0.68 %
+Glendale,U.S. citizen,"8,310",60.69 %
+Glendale,Permanent Resident,"2,263",16.53 %
+Glendale,Refugee / Asylee,502,3.67 %
+Glendale,Student Visa (F-1 or M-1 visa),300,2.19 %
+Glendale,Other Status,153,1.12 %
+Glendale,Status Unknown / Uncollected,"2,164",15.80 %
+Golden West,U.S. citizen,"5,788",55.01 %
+Golden West,Permanent Resident,527,5.01 %
+Golden West,Temporary Resident,24,0.23 %
+Golden West,Refugee / Asylee,37,0.35 %
+Golden West,Student Visa (F-1 or M-1 visa),285,2.71 %
+Golden West,Other Status,146,1.39 %
+Golden West,Status Unknown / Uncollected,"3,714",35.30 %
+Grossmont,U.S. citizen,"11,437",88.21 %
+Grossmont,Permanent Resident,974,7.51 %
+Grossmont,Temporary Resident,34,0.26 %
+Grossmont,Refugee / Asylee,165,1.27 %
+Grossmont,Student Visa (F-1 or M-1 visa),173,1.33 %
+Grossmont,Other Status,182,1.40 %
+Hartnell,U.S. citizen,"8,371",92.05 %
+Hartnell,Permanent Resident,296,3.25 %
+Hartnell,Temporary Resident,21,0.23 %
+Hartnell,Refugee / Asylee,14,0.15 %
+Hartnell,Student Visa (F-1 or M-1 visa),7,0.08 %
+Hartnell,Other Status,378,4.16 %
+Hartnell,Status Unknown / Uncollected,7,0.08 %
+Imperial,U.S. citizen,"7,033",84.28 %
+Imperial,Permanent Resident,"1,254",15.03 %
+Imperial,Temporary Resident,12,0.14 %
+Imperial,Refugee / Asylee,1,0.01 %
+Imperial,Other Status,44,0.53 %
+Imperial,Status Unknown / Uncollected,1,0.01 %
+Irvine,U.S. citizen,"9,768",73.60 %
+Irvine,Permanent Resident,"1,939",14.61 %
+Irvine,Temporary Resident,258,1.94 %
+Irvine,Refugee / Asylee,214,1.61 %
+Irvine,Student Visa (F-1 or M-1 visa),452,3.41 %
+Irvine,Other Status,638,4.81 %
+Irvine,Status Unknown / Uncollected,2,0.02 %
+LA City,U.S. citizen,"11,137",71.89 %
+LA City,Permanent Resident,"1,351",8.72 %
+LA City,Temporary Resident,103,0.66 %
+LA City,Refugee / Asylee,127,0.82 %
+LA City,Student Visa (F-1 or M-1 visa),291,1.88 %
+LA City,Other Status,756,4.88 %
+LA City,Status Unknown / Uncollected,"1,727",11.15 %
+LA Harbor,U.S. citizen,"6,852",87.02 %
+LA Harbor,Permanent Resident,337,4.28 %
+LA Harbor,Temporary Resident,36,0.46 %
+LA Harbor,Refugee / Asylee,27,0.34 %
+LA Harbor,Student Visa (F-1 or M-1 visa),27,0.34 %
+LA Harbor,Other Status,240,3.05 %
+LA Harbor,Status Unknown / Uncollected,355,4.51 %
+LA Mission,U.S. citizen,"8,450",83.53 %
+LA Mission,Permanent Resident,489,4.83 %
+LA Mission,Temporary Resident,46,0.45 %
+LA Mission,Refugee / Asylee,48,0.47 %
+LA Mission,Student Visa (F-1 or M-1 visa),31,0.31 %
+LA Mission,Other Status,409,4.04 %
+LA Mission,Status Unknown / Uncollected,643,6.36 %
+LA Pierce,U.S. citizen,"14,925",86.87 %
+LA Pierce,Permanent Resident,"1,107",6.44 %
+LA Pierce,Temporary Resident,86,0.50 %
+LA Pierce,Refugee / Asylee,118,0.69 %
+LA Pierce,Student Visa (F-1 or M-1 visa),118,0.69 %
+LA Pierce,Other Status,465,2.71 %
+LA Pierce,Status Unknown / Uncollected,361,2.10 %
+LA Swest,U.S. citizen,"4,527",79.17 %
+LA Swest,Permanent Resident,291,5.09 %
+LA Swest,Temporary Resident,31,0.54 %
+LA Swest,Refugee / Asylee,60,1.05 %
+LA Swest,Student Visa (F-1 or M-1 visa),8,0.14 %
+LA Swest,Other Status,216,3.78 %
+LA Swest,Status Unknown / Uncollected,585,10.23 %
+LA Trade,U.S. citizen,"9,649",86.70 %
+LA Trade,Permanent Resident,373,3.35 %
+LA Trade,Temporary Resident,83,0.75 %
+LA Trade,Refugee / Asylee,70,0.63 %
+LA Trade,Student Visa (F-1 or M-1 visa),40,0.36 %
+LA Trade,Other Status,693,6.23 %
+LA Trade,Status Unknown / Uncollected,221,1.99 %
+LA Valley,U.S. citizen,"13,239",79.97 %
+LA Valley,Permanent Resident,"1,549",9.36 %
+LA Valley,Temporary Resident,108,0.65 %
+LA Valley,Refugee / Asylee,212,1.28 %
+LA Valley,Student Visa (F-1 or M-1 visa),69,0.42 %
+LA Valley,Other Status,756,4.57 %
+LA Valley,Status Unknown / Uncollected,622,3.76 %
+Lake Tahoe,U.S. citizen,"2,782",94.18 %
+Lake Tahoe,Permanent Resident,63,2.13 %
+Lake Tahoe,Temporary Resident,10,0.34 %
+Lake Tahoe,Refugee / Asylee,4,0.14 %
+Lake Tahoe,Student Visa (F-1 or M-1 visa),15,0.51 %
+Lake Tahoe,Other Status,73,2.47 %
+Lake Tahoe,Status Unknown / Uncollected,7,0.24 %
+Laney,U.S. citizen,"7,642",78.74 %
+Laney,Permanent Resident,"1,045",10.77 %
+Laney,Temporary Resident,189,1.95 %
+Laney,Student Visa (F-1 or M-1 visa),123,1.27 %
+Laney,Other Status,340,3.50 %
+Laney,Status Unknown / Uncollected,366,3.77 %
+Las Positas,U.S. citizen,"5,992",87.83 %
+Las Positas,Permanent Resident,511,7.49 %
+Las Positas,Temporary Resident,36,0.53 %
+Las Positas,Refugee / Asylee,34,0.50 %
+Las Positas,Student Visa (F-1 or M-1 visa),63,0.92 %
+Las Positas,Other Status,185,2.71 %
+Las Positas,Status Unknown / Uncollected,1,0.01 %
+Lassen,U.S. citizen,"1,700",98.89 %
+Lassen,Permanent Resident,9,0.52 %
+Lassen,Student Visa (F-1 or M-1 visa),4,0.23 %
+Lassen,Other Status,6,0.35 %
+Long Beach,U.S. citizen,"21,523",90.54 %
+Long Beach,Permanent Resident,800,3.37 %
+Long Beach,Temporary Resident,183,0.77 %
+Long Beach,Student Visa (F-1 or M-1 visa),61,0.26 %
+Long Beach,Other Status,"1,120",4.71 %
+Long Beach,Status Unknown / Uncollected,85,0.36 %
+Los Medanos,U.S. citizen,"7,325",92.24 %
+Los Medanos,Permanent Resident,326,4.11 %
+Los Medanos,Temporary Resident,19,0.24 %
+Los Medanos,Refugee / Asylee,38,0.48 %
+Los Medanos,Student Visa (F-1 or M-1 visa),31,0.39 %
+Los Medanos,Other Status,202,2.54 %
+Madera,U.S. citizen,"5,573",99.41 %
+Madera,Permanent Resident,23,0.41 %
+Madera,Temporary Resident,1,0.02 %
+Madera,Refugee / Asylee,1,0.02 %
+Madera,Student Visa (F-1 or M-1 visa),1,0.02 %
+Madera,Other Status,7,0.12 %
+Marin,U.S. citizen,"3,864",72.82 %
+Marin,Permanent Resident,238,4.49 %
+Marin,Temporary Resident,11,0.21 %
+Marin,Refugee / Asylee,34,0.64 %
+Marin,Student Visa (F-1 or M-1 visa),55,1.04 %
+Marin,Other Status,291,5.48 %
+Marin,Status Unknown / Uncollected,813,15.32 %
+Mendocino,U.S. citizen,"3,775",89.86 %
+Mendocino,Permanent Resident,162,3.86 %
+Mendocino,Temporary Resident,3,0.07 %
+Mendocino,Refugee / Asylee,5,0.12 %
+Mendocino,Student Visa (F-1 or M-1 visa),3,0.07 %
+Mendocino,Other Status,221,5.26 %
+Mendocino,Status Unknown / Uncollected,32,0.76 %
+Merced,U.S. citizen,"10,137",90.89 %
+Merced,Permanent Resident,282,2.53 %
+Merced,Temporary Resident,34,0.30 %
+Merced,Refugee / Asylee,28,0.25 %
+Merced,Student Visa (F-1 or M-1 visa),47,0.42 %
+Merced,Other Status,414,3.71 %
+Merced,Status Unknown / Uncollected,211,1.89 %
+Merritt,U.S. citizen,"5,418",82.18 %
+Merritt,Permanent Resident,520,7.89 %
+Merritt,Temporary Resident,93,1.41 %
+Merritt,Student Visa (F-1 or M-1 visa),76,1.15 %
+Merritt,Other Status,253,3.84 %
+Merritt,Status Unknown / Uncollected,233,3.53 %
+MiraCosta,U.S. citizen,"10,779",83.34 %
+MiraCosta,Permanent Resident,174,1.35 %
+MiraCosta,Temporary Resident,61,0.47 %
+MiraCosta,Refugee / Asylee,322,2.49 %
+MiraCosta,Student Visa (F-1 or M-1 visa),104,0.80 %
+MiraCosta,Other Status,334,2.58 %
+MiraCosta,Status Unknown / Uncollected,"1,159",8.96 %
+Mission,U.S. citizen,"4,849",73.16 %
+Mission,Permanent Resident,698,10.53 %
+Mission,Temporary Resident,79,1.19 %
+Mission,Refugee / Asylee,71,1.07 %
+Mission,Student Visa (F-1 or M-1 visa),79,1.19 %
+Mission,Other Status,373,5.63 %
+Mission,Status Unknown / Uncollected,479,7.23 %
+Modesto,U.S. citizen,"15,827",90.80 %
+Modesto,Permanent Resident,749,4.30 %
+Modesto,Temporary Resident,81,0.46 %
+Modesto,Refugee / Asylee,140,0.80 %
+Modesto,Student Visa (F-1 or M-1 visa),42,0.24 %
+Modesto,Other Status,590,3.38 %
+Modesto,Status Unknown / Uncollected,1,0.01 %
+Monterey,U.S. citizen,"6,380",93.56 %
+Monterey,Permanent Resident,173,2.54 %
+Monterey,Temporary Resident,25,0.37 %
+Monterey,Refugee / Asylee,23,0.34 %
+Monterey,Student Visa (F-1 or M-1 visa),27,0.40 %
+Monterey,Other Status,187,2.74 %
+Monterey,Status Unknown / Uncollected,4,0.06 %
+Moorpark,U.S. citizen,"11,839",94.53 %
+Moorpark,Permanent Resident,341,2.72 %
+Moorpark,Temporary Resident,38,0.30 %
+Moorpark,Refugee / Asylee,18,0.14 %
+Moorpark,Student Visa (F-1 or M-1 visa),69,0.55 %
+Moorpark,Other Status,191,1.53 %
+Moorpark,Status Unknown / Uncollected,28,0.22 %
+Moreno Valley,U.S. citizen,"8,637",94.27 %
+Moreno Valley,Permanent Resident,235,2.56 %
+Moreno Valley,Temporary Resident,28,0.31 %
+Moreno Valley,Refugee / Asylee,26,0.28 %
+Moreno Valley,Student Visa (F-1 or M-1 visa),37,0.40 %
+Moreno Valley,Other Status,174,1.90 %
+Moreno Valley,Status Unknown / Uncollected,25,0.27 %
+Mt San Antonio,U.S. citizen,"26,991",75.66 %
+Mt San Antonio,Permanent Resident,"1,566",4.39 %
+Mt San Antonio,Temporary Resident,154,0.43 %
+Mt San Antonio,Refugee / Asylee,227,0.64 %
+Mt San Antonio,Student Visa (F-1 or M-1 visa),204,0.57 %
+Mt San Antonio,Other Status,907,2.54 %
+Mt San Antonio,Status Unknown / Uncollected,"5,626",15.77 %
+Mt. San Jacinto,U.S. citizen,"16,127",96.06 %
+Mt. San Jacinto,Permanent Resident,412,2.45 %
+Mt. San Jacinto,Temporary Resident,32,0.19 %
+Mt. San Jacinto,Refugee / Asylee,34,0.20 %
+Mt. San Jacinto,Other Status,183,1.09 %
+Napa,U.S. citizen,"3,965",92.38 %
+Napa,Permanent Resident,174,4.05 %
+Napa,Temporary Resident,13,0.30 %
+Napa,Refugee / Asylee,11,0.26 %
+Napa,Student Visa (F-1 or M-1 visa),3,0.07 %
+Napa,Other Status,123,2.87 %
+Napa,Status Unknown / Uncollected,3,0.07 %
+Norco College,U.S. citizen,"9,001",93.64 %
+Norco College,Permanent Resident,276,2.87 %
+Norco College,Temporary Resident,32,0.33 %
+Norco College,Refugee / Asylee,44,0.46 %
+Norco College,Student Visa (F-1 or M-1 visa),31,0.32 %
+Norco College,Other Status,162,1.69 %
+Norco College,Status Unknown / Uncollected,66,0.69 %
+North Orange Adult,U.S. citizen,"4,469",47.53 %
+North Orange Adult,Permanent Resident,"1,211",12.88 %
+North Orange Adult,Temporary Resident,259,2.75 %
+North Orange Adult,Refugee / Asylee,240,2.55 %
+North Orange Adult,Student Visa (F-1 or M-1 visa),16,0.17 %
+North Orange Adult,Other Status,"1,291",13.73 %
+North Orange Adult,Status Unknown / Uncollected,"1,916",20.38 %
+Ohlone,U.S. citizen,"7,341",85.37 %
+Ohlone,Permanent Resident,659,7.66 %
+Ohlone,Temporary Resident,29,0.34 %
+Ohlone,Refugee / Asylee,54,0.63 %
+Ohlone,Student Visa (F-1 or M-1 visa),233,2.71 %
+Ohlone,Other Status,157,1.83 %
+Ohlone,Status Unknown / Uncollected,126,1.47 %
+Orange Coast,U.S. citizen,"9,945",58.49 %
+Orange Coast,Permanent Resident,710,4.18 %
+Orange Coast,Temporary Resident,35,0.21 %
+Orange Coast,Refugee / Asylee,48,0.28 %
+Orange Coast,Student Visa (F-1 or M-1 visa),843,4.96 %
+Orange Coast,Other Status,204,1.20 %
+Orange Coast,Status Unknown / Uncollected,"5,219",30.69 %
+Oxnard,U.S. citizen,"5,931",90.92 %
+Oxnard,Permanent Resident,195,2.99 %
+Oxnard,Temporary Resident,45,0.69 %
+Oxnard,Refugee / Asylee,8,0.12 %
+Oxnard,Student Visa (F-1 or M-1 visa),8,0.12 %
+Oxnard,Other Status,240,3.68 %
+Oxnard,Status Unknown / Uncollected,96,1.47 %
+Palo Verde,U.S. citizen,"4,619",97.65 %
+Palo Verde,Permanent Resident,77,1.63 %
+Palo Verde,Temporary Resident,8,0.17 %
+Palo Verde,Refugee / Asylee,12,0.25 %
+Palo Verde,Student Visa (F-1 or M-1 visa),2,0.04 %
+Palo Verde,Other Status,11,0.23 %
+Palo Verde,Status Unknown / Uncollected,1,0.02 %
+Palomar,U.S. citizen,"16,924",89.95 %
+Palomar,Permanent Resident,667,3.55 %
+Palomar,Temporary Resident,67,0.36 %
+Palomar,Refugee / Asylee,31,0.16 %
+Palomar,Student Visa (F-1 or M-1 visa),75,0.40 %
+Palomar,Other Status,"1,039",5.52 %
+Palomar,Status Unknown / Uncollected,11,0.06 %
+Pasadena,U.S. citizen,"19,598",82.14 %
+Pasadena,Permanent Resident,"1,826",7.65 %
+Pasadena,Temporary Resident,39,0.16 %
+Pasadena,Refugee / Asylee,187,0.78 %
+Pasadena,Student Visa (F-1 or M-1 visa),460,1.93 %
+Pasadena,Other Status,664,2.78 %
+Pasadena,Status Unknown / Uncollected,"1,085",4.55 %
+Porterville,U.S. citizen,"3,949",92.87 %
+Porterville,Permanent Resident,135,3.17 %
+Porterville,Temporary Resident,13,0.31 %
+Porterville,Refugee / Asylee,4,0.09 %
+Porterville,Student Visa (F-1 or M-1 visa),1,0.02 %
+Porterville,Other Status,143,3.36 %
+Porterville,Status Unknown / Uncollected,7,0.16 %
+Redwoods,U.S. citizen,"4,310",98.49 %
+Redwoods,Permanent Resident,44,1.01 %
+Redwoods,Temporary Resident,3,0.07 %
+Redwoods,Refugee / Asylee,1,0.02 %
+Redwoods,Other Status,18,0.41 %
+Reedley College,U.S. citizen,"7,353",99.18 %
+Reedley College,Permanent Resident,33,0.45 %
+Reedley College,Refugee / Asylee,1,0.01 %
+Reedley College,Student Visa (F-1 or M-1 visa),3,0.04 %
+Reedley College,Other Status,24,0.32 %
+Rio Hondo,U.S. citizen,"16,050",92.21 %
+Rio Hondo,Permanent Resident,411,2.36 %
+Rio Hondo,Temporary Resident,45,0.26 %
+Rio Hondo,Refugee / Asylee,18,0.10 %
+Rio Hondo,Student Visa (F-1 or M-1 visa),24,0.14 %
+Rio Hondo,Other Status,592,3.40 %
+Rio Hondo,Status Unknown / Uncollected,266,1.53 %
+Riverside,U.S. citizen,"18,419",92.99 %
+Riverside,Permanent Resident,501,2.53 %
+Riverside,Temporary Resident,60,0.30 %
+Riverside,Refugee / Asylee,61,0.31 %
+Riverside,Student Visa (F-1 or M-1 visa),106,0.54 %
+Riverside,Other Status,474,2.39 %
+Riverside,Status Unknown / Uncollected,187,0.94 %
+Sacramento City,U.S. citizen,"15,796",89.25 %
+Sacramento City,Permanent Resident,"1,266",7.15 %
+Sacramento City,Temporary Resident,69,0.39 %
+Sacramento City,Refugee / Asylee,144,0.81 %
+Sacramento City,Student Visa (F-1 or M-1 visa),72,0.41 %
+Sacramento City,Other Status,339,1.92 %
+Sacramento City,Status Unknown / Uncollected,13,0.07 %
+Saddleback,U.S. citizen,"19,734",87.30 %
+Saddleback,Permanent Resident,"1,462",6.47 %
+Saddleback,Temporary Resident,91,0.40 %
+Saddleback,Refugee / Asylee,153,0.68 %
+Saddleback,Student Visa (F-1 or M-1 visa),249,1.10 %
+Saddleback,Other Status,909,4.02 %
+Saddleback,Status Unknown / Uncollected,7,0.03 %
+San Bernardino,U.S. citizen,"10,554",93.71 %
+San Bernardino,Permanent Resident,347,3.08 %
+San Bernardino,Temporary Resident,33,0.29 %
+San Bernardino,Refugee / Asylee,24,0.21 %
+San Bernardino,Student Visa (F-1 or M-1 visa),9,0.08 %
+San Bernardino,Other Status,294,2.61 %
+San Bernardino,Status Unknown / Uncollected,1,0.01 %
+San Diego Adult,U.S. citizen,"7,134",52.26 %
+San Diego Adult,Permanent Resident,"2,388",17.49 %
+San Diego Adult,Temporary Resident,519,3.80 %
+San Diego Adult,Refugee / Asylee,"1,573",11.52 %
+San Diego Adult,Student Visa (F-1 or M-1 visa),103,0.75 %
+San Diego Adult,Other Status,"1,857",13.60 %
+San Diego Adult,Status Unknown / Uncollected,78,0.57 %
+San Diego City,U.S. citizen,"11,173",91.75 %
+San Diego City,Permanent Resident,659,5.41 %
+San Diego City,Temporary Resident,31,0.25 %
+San Diego City,Refugee / Asylee,76,0.62 %
+San Diego City,Student Visa (F-1 or M-1 visa),18,0.15 %
+San Diego City,Other Status,221,1.81 %
+San Diego Mesa,U.S. citizen,"16,616",91.89 %
+San Diego Mesa,Permanent Resident,959,5.30 %
+San Diego Mesa,Temporary Resident,45,0.25 %
+San Diego Mesa,Refugee / Asylee,71,0.39 %
+San Diego Mesa,Student Visa (F-1 or M-1 visa),57,0.32 %
+San Diego Mesa,Other Status,335,1.85 %
+San Diego Miramar,U.S. citizen,"11,877",92.06 %
+San Diego Miramar,Permanent Resident,699,5.42 %
+San Diego Miramar,Temporary Resident,44,0.34 %
+San Diego Miramar,Refugee / Asylee,54,0.42 %
+San Diego Miramar,Student Visa (F-1 or M-1 visa),21,0.16 %
+San Diego Miramar,Other Status,206,1.60 %
+San Francisco,U.S. citizen,"14,501",69.94 %
+San Francisco,Permanent Resident,"2,125",10.25 %
+San Francisco,Temporary Resident,74,0.36 %
+San Francisco,Refugee / Asylee,152,0.73 %
+San Francisco,Student Visa (F-1 or M-1 visa),280,1.35 %
+San Francisco,Other Status,822,3.96 %
+San Francisco,Status Unknown / Uncollected,"2,779",13.40 %
+San Joaquin Delta,U.S. citizen,"14,946",92.44 %
+San Joaquin Delta,Permanent Resident,715,4.42 %
+San Joaquin Delta,Temporary Resident,44,0.27 %
+San Joaquin Delta,Refugee / Asylee,48,0.30 %
+San Joaquin Delta,Student Visa (F-1 or M-1 visa),2,0.01 %
+San Joaquin Delta,Other Status,370,2.29 %
+San Joaquin Delta,Status Unknown / Uncollected,43,0.27 %
+San Jose City,U.S. citizen,"6,633",83.09 %
+San Jose City,Permanent Resident,781,9.78 %
+San Jose City,Temporary Resident,49,0.61 %
+San Jose City,Refugee / Asylee,56,0.70 %
+San Jose City,Student Visa (F-1 or M-1 visa),95,1.19 %
+San Jose City,Other Status,315,3.95 %
+San Jose City,Status Unknown / Uncollected,54,0.68 %
+San Mateo,U.S. citizen,"6,440",85.76 %
+San Mateo,Permanent Resident,395,5.26 %
+San Mateo,Temporary Resident,46,0.61 %
+San Mateo,Refugee / Asylee,52,0.69 %
+San Mateo,Student Visa (F-1 or M-1 visa),271,3.61 %
+San Mateo,Other Status,290,3.86 %
+San Mateo,Status Unknown / Uncollected,15,0.20 %
+Santa Ana,U.S. citizen,"29,597",89.21 %
+Santa Ana,Permanent Resident,"1,332",4.01 %
+Santa Ana,Temporary Resident,92,0.28 %
+Santa Ana,Refugee / Asylee,65,0.20 %
+Santa Ana,Student Visa (F-1 or M-1 visa),158,0.48 %
+Santa Ana,Other Status,"1,851",5.58 %
+Santa Ana,Status Unknown / Uncollected,82,0.25 %
+Santa Barbara,U.S. citizen,"12,959",78.15 %
+Santa Barbara,Permanent Resident,446,2.69 %
+Santa Barbara,Temporary Resident,107,0.65 %
+Santa Barbara,Refugee / Asylee,24,0.14 %
+Santa Barbara,Student Visa (F-1 or M-1 visa),518,3.12 %
+Santa Barbara,Other Status,278,1.68 %
+Santa Barbara,Status Unknown / Uncollected,"2,250",13.57 %
+Santa Monica,U.S. citizen,"21,290",83.51 %
+Santa Monica,Permanent Resident,"1,251",4.91 %
+Santa Monica,Temporary Resident,85,0.33 %
+Santa Monica,Refugee / Asylee,191,0.75 %
+Santa Monica,Student Visa (F-1 or M-1 visa),"1,497",5.87 %
+Santa Monica,Other Status,732,2.87 %
+Santa Monica,Status Unknown / Uncollected,448,1.76 %
+Santa Rosa,U.S. citizen,"16,913",81.67 %
+Santa Rosa,Permanent Resident,704,3.40 %
+Santa Rosa,Temporary Resident,68,0.33 %
+Santa Rosa,Refugee / Asylee,77,0.37 %
+Santa Rosa,Student Visa (F-1 or M-1 visa),75,0.36 %
+Santa Rosa,Other Status,"1,308",6.32 %
+Santa Rosa,Status Unknown / Uncollected,"1,564",7.55 %
+Santiago Canyon,U.S. citizen,"15,393",92.00 %
+Santiago Canyon,Permanent Resident,523,3.13 %
+Santiago Canyon,Temporary Resident,56,0.33 %
+Santiago Canyon,Refugee / Asylee,25,0.15 %
+Santiago Canyon,Student Visa (F-1 or M-1 visa),99,0.59 %
+Santiago Canyon,Other Status,595,3.56 %
+Santiago Canyon,Status Unknown / Uncollected,41,0.25 %
+Sequoias,U.S. citizen,"12,641",92.70 %
+Sequoias,Permanent Resident,249,1.83 %
+Sequoias,Temporary Resident,10,0.07 %
+Sequoias,Refugee / Asylee,14,0.10 %
+Sequoias,Student Visa (F-1 or M-1 visa),13,0.10 %
+Sequoias,Other Status,396,2.90 %
+Sequoias,Status Unknown / Uncollected,314,2.30 %
+Shasta,U.S. citizen,"7,876",99.65 %
+Shasta,Permanent Resident,6,0.08 %
+Shasta,Other Status,2,0.03 %
+Shasta,Status Unknown / Uncollected,20,0.25 %
+Sierra,U.S. citizen,"15,584",94.43 %
+Sierra,Permanent Resident,507,3.07 %
+Sierra,Temporary Resident,38,0.23 %
+Sierra,Refugee / Asylee,81,0.49 %
+Sierra,Student Visa (F-1 or M-1 visa),50,0.30 %
+Sierra,Other Status,206,1.25 %
+Sierra,Status Unknown / Uncollected,38,0.23 %
+Siskiyous,U.S. citizen,"1,256",94.51 %
+Siskiyous,Permanent Resident,19,1.43 %
+Siskiyous,Temporary Resident,1,0.08 %
+Siskiyous,Refugee / Asylee,3,0.23 %
+Siskiyous,Student Visa (F-1 or M-1 visa),15,1.13 %
+Siskiyous,Other Status,10,0.75 %
+Siskiyous,Status Unknown / Uncollected,25,1.88 %
+Skyline,U.S. citizen,"7,419",86.94 %
+Skyline,Permanent Resident,450,5.27 %
+Skyline,Temporary Resident,60,0.70 %
+Skyline,Refugee / Asylee,58,0.68 %
+Skyline,Student Visa (F-1 or M-1 visa),262,3.07 %
+Skyline,Other Status,270,3.16 %
+Skyline,Status Unknown / Uncollected,14,0.16 %
+Solano,U.S. citizen,"7,991",94.84 %
+Solano,Permanent Resident,217,2.58 %
+Solano,Temporary Resident,21,0.25 %
+Solano,Refugee / Asylee,11,0.13 %
+Solano,Student Visa (F-1 or M-1 visa),15,0.18 %
+Solano,Other Status,110,1.31 %
+Solano,Status Unknown / Uncollected,61,0.72 %
+Southwestern,U.S. citizen,"16,940",96.58 %
+Southwestern,Permanent Resident,466,2.66 %
+Southwestern,Temporary Resident,18,0.10 %
+Southwestern,Refugee / Asylee,10,0.06 %
+Southwestern,Student Visa (F-1 or M-1 visa),10,0.06 %
+Southwestern,Other Status,96,0.55 %
+Taft,U.S. citizen,"3,639",90.01 %
+Taft,Permanent Resident,337,8.34 %
+Taft,Temporary Resident,2,0.05 %
+Taft,Refugee / Asylee,2,0.05 %
+Taft,Student Visa (F-1 or M-1 visa),3,0.07 %
+Taft,Other Status,60,1.48 %
+Ventura,U.S. citizen,"10,118",94.00 %
+Ventura,Permanent Resident,226,2.10 %
+Ventura,Temporary Resident,36,0.33 %
+Ventura,Refugee / Asylee,7,0.07 %
+Ventura,Student Visa (F-1 or M-1 visa),59,0.55 %
+Ventura,Other Status,233,2.16 %
+Ventura,Status Unknown / Uncollected,85,0.79 %
+Victor Valley,U.S. citizen,"12,640",95.96 %
+Victor Valley,Permanent Resident,254,1.93 %
+Victor Valley,Temporary Resident,18,0.14 %
+Victor Valley,Refugee / Asylee,23,0.17 %
+Victor Valley,Student Visa (F-1 or M-1 visa),10,0.08 %
+Victor Valley,Other Status,227,1.72 %
+West Hills Coalinga,U.S. citizen,"2,886",91.68 %
+West Hills Coalinga,Permanent Resident,111,3.53 %
+West Hills Coalinga,Temporary Resident,12,0.38 %
+West Hills Coalinga,Refugee / Asylee,4,0.13 %
+West Hills Coalinga,Student Visa (F-1 or M-1 visa),11,0.35 %
+West Hills Coalinga,Other Status,124,3.94 %
+West Hills Lemoore,U.S. citizen,"3,656",93.70 %
+West Hills Lemoore,Permanent Resident,108,2.77 %
+West Hills Lemoore,Temporary Resident,13,0.33 %
+West Hills Lemoore,Refugee / Asylee,9,0.23 %
+West Hills Lemoore,Student Visa (F-1 or M-1 visa),11,0.28 %
+West Hills Lemoore,Other Status,105,2.69 %
+West LA,U.S. citizen,"8,107",87.85 %
+West LA,Permanent Resident,475,5.15 %
+West LA,Temporary Resident,49,0.53 %
+West LA,Refugee / Asylee,54,0.59 %
+West LA,Student Visa (F-1 or M-1 visa),68,0.74 %
+West LA,Other Status,259,2.81 %
+West LA,Status Unknown / Uncollected,216,2.34 %
+West Valley,U.S. citizen,"6,322",78.87 %
+West Valley,Permanent Resident,526,6.56 %
+West Valley,Temporary Resident,42,0.52 %
+West Valley,Refugee / Asylee,36,0.45 %
+West Valley,Student Visa (F-1 or M-1 visa),37,0.46 %
+West Valley,Other Status,223,2.78 %
+West Valley,Status Unknown / Uncollected,830,10.35 %
+Woodland,U.S. citizen,"3,011",82.52 %
+Woodland,Permanent Resident,181,4.96 %
+Woodland,Temporary Resident,12,0.33 %
+Woodland,Refugee / Asylee,9,0.25 %
+Woodland,Other Status,75,2.06 %
+Woodland,Status Unknown / Uncollected,361,9.89 %
+Yuba,U.S. citizen,"4,973",89.77 %
+Yuba,Permanent Resident,247,4.46 %
+Yuba,Temporary Resident,22,0.40 %
+Yuba,Refugee / Asylee,16,0.29 %
+Yuba,Other Status,62,1.12 %
+Yuba,Status Unknown / Uncollected,220,3.97 %
